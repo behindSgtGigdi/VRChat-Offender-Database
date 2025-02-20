@@ -5,7 +5,7 @@ The VRChat Predator Reporting System is a tool designed to help users report sus
 
 ## How It Works
 1. **Submit a Report**: Use the `/report` command in the Discord server to report a user.
-2. **Provide Details**: Enter the user's VRChat ID and a brief description of the incident.
+2. **Provide Details**: Enter the user's VRChat user ID and a brief description of the incident.
 3. **Upload Video Evidence**: You will be given access to a private channel where you can submit video proof.
 4. **Verification**: The report is stored in the database and logged in a staff-only channel for review.
 
