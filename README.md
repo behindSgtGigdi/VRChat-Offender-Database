@@ -1,0 +1,2 @@
+# VRChat Offender Database
+ VRChat Predator Watch is a community-driven reporting system designed to track and log reports of predatory behavior within VRChat. This system allows users to submit detailed reports, including user IDs and evidence, to a shared database, helping others stay informed and aware of potential threats.  Our goal is to enhance safety in VRChat by providing a centralized resource for reporting and tracking problematic users. This tool is meant for awareness and prevention, ensuring that the VRChat community remains a safer place for everyone.
