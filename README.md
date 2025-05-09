@@ -58,7 +58,7 @@ All submitted reports undergo a rigorous multi-stage verification process:
 ## 🤖 Discord Integration
 
 Join our official Discord server for seamless access to our reporting infrastructure:
-[Join GIGDI Pullers Discord />](https://discord.gg/7cyrKZcj8W)
+[Join GIGDI Pullers Discord](https://discord.gg/7cyrKZcj8W)
 
 ### Advanced Command System
 
