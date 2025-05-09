@@ -58,7 +58,7 @@ All submitted reports undergo a rigorous multi-stage verification process:
 ## 🤖 Discord Integration
 
 Join our official Discord server for seamless access to our reporting infrastructure:
-[<img src="" alt="Join GIGDI Pullers Discord" />](https://discord.gg/7cyrKZcj8W)
+[alt="Join GIGDI Pullers Discord" />](https://discord.gg/7cyrKZcj8W)
 
 ### Advanced Command System
 
@@ -109,11 +109,6 @@ MongoDB Atlas implementation featuring:
 
 3. **Access Reporting System**:
    Once verified, navigate to the #commands channel to access the reporting interface.
-
-4. **Optional: Install Mobile Integration**:
-   For on-the-go reporting capabilities, install our companion mobile application:
-   - [Android APK](https://example.com/android) (SHA-256: e7c5...)
-   - [iOS App](https://example.com/ios) (Available through TestFlight)
 
 ## 📜 Legal Framework
 
